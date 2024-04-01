@@ -7,8 +7,17 @@ Pink #ff80a9
     --bs-secondary: #ff80a9;
 }
 
-a {
+body {
     color: var(--bs-primary);
+}
+
+a, .nav-link {
+    color: var(--bs-primary);
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: large;
 }
 
 h1, h2, h3, h4, h5, h6 {
