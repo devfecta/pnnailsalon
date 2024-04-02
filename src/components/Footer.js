@@ -28,7 +28,7 @@ class Footer extends Component {
                 </div>
                 <div className='col-12 col-md-6 col-lg-3 text-start'>
                     <h5>e-Mail</h5>
-                    <a href='mailto:pnnailsalonmadison@gmail.com'>pnnailsalonmadison@gmail.com</a>
+                    <a href='mailto:contact@pnnailsalon.com'>contact@pnnailsalon.com</a>
                 </div>
 
                 <div className='col-12'>&copy; {this.currentYear} PN Nail Salon - Madison, WI</div>
