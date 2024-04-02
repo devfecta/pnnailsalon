@@ -22,8 +22,8 @@ class Header extends Component {
 
                     <div className="navbar-collapse collapse row" id="navbarsMain">
                         <ul className="navbar-nav mb-2 mb-md-0 justify-content-end">
-                            <li className="nav-item col-12 col-md-3 p-2">
-                                <a className="btn btn-primary w-100" href='tel:16082035787'>Call Today</a>
+                            <li className="nav-item col-12 col-md-6 col-lg-4 col-xl-3 p-2">
+                                <a className="btn btn-primary w-100" href='tel:16082035787'>Call Today (608) 203-5787</a>
                             </li>
                             <li className="nav-item col-12 col-md-3 p-2">
                                 <a className="btn btn-primary w-100" href="/pricing">Pricing</a>

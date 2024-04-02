@@ -5,10 +5,7 @@ Pink #ff80a9
 :root {
     --bs-primary: #006886;
     --bs-secondary: #ff80a9;
-}
-
-body {
-    color: var(--bs-primary);
+    --bs-body-color: #006886;
 }
 
 a, .nav-link {
