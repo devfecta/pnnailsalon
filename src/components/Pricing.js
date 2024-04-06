@@ -23,7 +23,7 @@ class Pricing extends Component {
 								<ListGroup.Item>Manicure Gel $40</ListGroup.Item>
 								<ListGroup.Item>Manicure Dip $45</ListGroup.Item>
 								<ListGroup.Item>Polish Change Regular $15</ListGroup.Item>
-								<ListGroup.Item>Polish Change Gel $55</ListGroup.Item>
+								<ListGroup.Item>Polish Change Gel $35</ListGroup.Item>
 							</ListGroup>
 						</Card.Body>
 					</Card>
