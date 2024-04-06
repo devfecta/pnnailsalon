@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Image from 'react-bootstrap/Image';
+import {Facebook, Instagram} from 'react-bootstrap-icons';
 
 class Footer extends Component {
 
@@ -28,10 +29,16 @@ class Footer extends Component {
                 <div className='col-12 col-md-6 col-lg-3 pb-3 text-start'>
                     <h5>Phone</h5>
                     <a href='tel:16082035787'>(608) 203-5787</a>
-                </div>
-                <div className='col-12 col-md-6 col-lg-3 pb-3 text-start'>
                     <h5>e-Mail</h5>
                     <a href='mailto:contact@pnnailsalon.com'>contact@pnnailsalon.com</a>
+                </div>
+                <div className='col-12 col-md-6 col-lg-3 pb-3 justify-content-center fs-1'>
+
+                <a href='https://www.facebook.com/pnnailsalon' className='m-3' target='_blank'><Facebook /></a>
+                    
+                <a href='https://www.instagram.com/pnnailsalon' className='m-3' target='_blank'><Instagram /></a>
+
+                    
                 </div>
 
                 <div className='col-12'>&copy; {this.currentYear} PN Nail Salon - Madison, WI</div>
