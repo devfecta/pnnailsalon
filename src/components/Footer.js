@@ -16,17 +16,20 @@ class Footer extends Component {
                 <div className='col-12 col-md-6 col-lg-3'>
                     <Image src='images/PN-Nail-Salon-Logo.png' fluid style={{height: '100px'}} />
                 </div>
-                <div className='col-12 col-md-6 col-lg-3 text-start'>
+                <div className='col-12 col-md-6 col-lg-3 pb-3 text-start'>
                     <h5>Location</h5>
                     <address>
                         6717 Odana Road, Suite 2<br/>Madison, WI 53719
                     </address>
+                    <h5>Open</h5>
+                    Monday-Friday : 9:00am - 7:00pm<br/>
+                    Saturday : 9:00am - 4:00pm<br/>
                 </div>
-                <div className='col-12 col-md-6 col-lg-3 text-start'>
+                <div className='col-12 col-md-6 col-lg-3 pb-3 text-start'>
                     <h5>Phone</h5>
                     <a href='tel:16082035787'>(608) 203-5787</a>
                 </div>
-                <div className='col-12 col-md-6 col-lg-3 text-start'>
+                <div className='col-12 col-md-6 col-lg-3 pb-3 text-start'>
                     <h5>e-Mail</h5>
                     <a href='mailto:contact@pnnailsalon.com'>contact@pnnailsalon.com</a>
                 </div>
