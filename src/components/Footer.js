@@ -34,9 +34,9 @@ class Footer extends Component {
                 </div>
                 <div className='col-12 col-md-6 col-lg-3 pb-3 justify-content-center fs-1'>
 
-                <a href='https://www.facebook.com/pnnailsalon' className='m-3' target='_blank'><Facebook /></a>
+                <a href='https://www.facebook.com/pnnailsalon' className='m-3' target='_blank' rel='noreferrer'><Facebook /></a>
                     
-                <a href='https://www.instagram.com/pnnailsalon' className='m-3' target='_blank'><Instagram /></a>
+                <a href='https://www.instagram.com/pnnailsalon' className='m-3' target='_blank' rel='noreferrer'><Instagram /></a>
 
                     
                 </div>
