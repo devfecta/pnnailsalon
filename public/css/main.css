@@ -11,6 +11,7 @@ Pink #ff80a9
 a, .nav-link {
     color: var(--bs-primary);
     font-weight: bold;
+    text-decoration: none;
 }
 
 .nav-link {
