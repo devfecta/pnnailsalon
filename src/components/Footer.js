@@ -20,7 +20,7 @@ class Footer extends Component {
                 <div className='col-12 col-md-6 col-lg-3 pb-3 text-start'>
                     <h5>Location</h5>
                     <address>
-                        <a href='https://www.google.com/maps/search/?api=1&query=6717+Odana+Road+Suite+2+Madison+WI' target='_blank'>6717 Odana Road, Suite 2<br/>Madison, WI 53719</a>
+                        <a href='https://www.google.com/maps/search/?api=1&query=6717+Odana+Road+Suite+2+Madison+WI' target='_blank' rel="noreferrer">6717 Odana Road, Suite 2<br/>Madison, WI 53719</a>
                     </address>
                     <h5>Open</h5>
                     Monday-Friday : 9:00am - 7:00pm<br/>
