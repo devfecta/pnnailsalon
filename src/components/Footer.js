@@ -23,8 +23,8 @@ class Footer extends Component {
                         <a href='https://www.google.com/maps/search/?api=1&query=6717+Odana+Road+Suite+2+Madison+WI' target='_blank' rel="noreferrer">6717 Odana Road, Suite 2<br/>Madison, WI 53719</a>
                     </address>
                     <h5>Open</h5>
-                    Monday-Friday : 9:00am - 7:00pm<br/>
-                    Saturday : 9:00am - 4:00pm<br/>
+                    Monday-Friday : 10:00am - 6:00pm<br/>
+                    Saturday : 10:00am - 4:00pm<br/>
                 </div>
                 <div className='col-12 col-md-6 col-lg-3 pb-3 text-start'>
                     <h5>Phone</h5>
