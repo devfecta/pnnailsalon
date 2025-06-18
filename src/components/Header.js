@@ -31,7 +31,11 @@ class Header extends Component {
                         </ul>
                     </div>
                 </nav>
+                <p className="text-center h4">
+                    Walk-Ins Welcome
+                </p>
             </header>
+
         );
     }
 }
